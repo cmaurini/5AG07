@@ -12,6 +12,6 @@ This repository collects the material to the class 5AG07 at Sorbonne Université
 
 * You can find some links to online resources in the file [LINKS.md](LINKS.md)
 
-* You can find insdication on how to install and use FEniCS in [INSTALL.md](INSTALL.md)
+* You can find indication on how to install and use FEniCS in [INSTALL.md](INSTALL.md)
 
-
+* Link to create the repository for your "binôme": https://classroom.github.com/g/u3ck1a3W
